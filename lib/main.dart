@@ -16,5 +16,4 @@ class SalesApp extends StatelessWidget {
       home: MappingPage(auth:Auth(),),
     );
   }
-
 }
